@@ -1,17 +1,13 @@
-# vueAdmin-template
+# vue-project
 
-> A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
-
-**Live demo:** http://panjiachen.github.io/vueAdmin-template
-
-[中文文档](https://github.com/PanJiaChen/vueAdmin-template/blob/master/README-zh.md)
+> A minimal vue project with Element UI & axios & iconfont & permission control & lint, this project was used to demo for plug-in a vue-library
 
 ## Build Setup
 
 ``` bash
 
 # Clone project
-git clone https://github.com/PanJiaChen/vueAdmin-template.git
+git clone https://github.com/buithi/vue-project.git
 
 # Install dependencies
 npm install
@@ -26,20 +22,12 @@ npm run build
 npm run build --report
 ```
 
-## Demo
-![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
-
-## Extra
-If you want router permission && generate menu by user roles , you can use this branch [permission-control](https://github.com/PanJiaChen/vueAdmin-template/tree/permission-control)
-
 ## Related Project
+ [vue-library](https://github.com/buithi/vue-library) `This library is a module/plugin for the vue-project`
  [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
-
- [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
+ [vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template)
 
 ### Element-Ui using cdn tutorial
-First find `index.html`([root directory](https://github.com/PanJiaChen/vueAdmin-template/blob/element-ui-cdn/index.html))
-
 Import css and js of `Element`, and then import vue. Because `Element` is vue-dependent, vue must be import before it.
 
 Then find [webpack.base.conf.js](https://github.com/PanJiaChen/vueAdmin-template/blob/element-ui-cdn/build/webpack.base.conf.js)
@@ -63,6 +51,7 @@ And you can use `npm run build --report` to see the effect
 https://medium.com/hong-kong-tech/reusable-scalable-and-easy-to-organize-project-using-vuejs-part-1-d08fa83b8581
 
 ## License
-[MIT](https://github.com/PanJiaChen/vueAdmin-template/blob/master/LICENSE) license.
+[MIT](https://github.com/buithi/vue-project/blob/master/LICENSE) license.
+) license.
 
 Copyright (c) 2018-present Huy Bui
