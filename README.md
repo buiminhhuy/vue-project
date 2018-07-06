@@ -23,9 +23,9 @@ npm run build --report
 ```
 
 ## Related Project
- [vue-library](https://github.com/buithi/vue-library) `This library is a module/plugin for the vue-project`
- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
- [vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template)
+ [vue-library](https://github.com/buithi/vue-library) `This library is a module/plugin for the vue-project`<br />
+ [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)<br />
+ [vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template)<br />
 
 ### Element-Ui using cdn tutorial
 Import css and js of `Element`, and then import vue. Because `Element` is vue-dependent, vue must be import before it.
@@ -52,6 +52,5 @@ https://medium.com/hong-kong-tech/reusable-scalable-and-easy-to-organize-project
 
 ## License
 [MIT](https://github.com/buithi/vue-project/blob/master/LICENSE) license.
-) license.
 
 Copyright (c) 2018-present Huy Bui
